@@ -1,0 +1,19 @@
+Pitch/Idea: 
+ A web application that allows people within a local community to trade their personal services with one another, making it a win-win experience without involving monetary exchange. 
+
+MVP: 
+* User can make an account 
+* User can login and logout
+* User can make a profile
+    * can specify what trades they offer
+        * Selects general category then can specify specifics under that
+* User enters form of trade/service they need
+
+* Friend request? Agree then can chat - Yes/No
+
+* Email/Chat
+
+* Users able to chat when there’s a trade match
+
+Future Features:
+Ratings
