@@ -1,17 +1,19 @@
-Pitch/Idea: 
- A web application that allows people within a local community to trade their personal services with one another, making it a win-win experience without involving monetary exchange. 
+Idea: 
+An app that allows people within a local community to trade their personal services or skills with one another, creating a win-win without involving monetary exchange. 
+Community members create an account stating on their profile the skills/trades that they can offer help with as well as potential needs they have themselves. Based on the user’s profile, when the user logs in, other community members are displayed that are either a full match (listed needs and services of the user and community member are mutually beneficial) or a partial match (community member’s listed service meets user’s need or vice versa). Partial matches have the option to negotiate to create a working arrangement. In-app communication enables users to arrange the details of the exchange.      
 
 MVP: 
-* User can make an account 
-* User can login and logout
-* User can make a profile
-    * can specify what trades they offer
-        * Selects general category then can specify specifics under that
-* User enters form of trade/service they need
-
-* Friend request? Agree then can chat - Yes/No
-* Email/Chat
-* Users able to chat when there’s a trade match
+    * Users can create an account 
+    * Users can sign into their account
+    * Users can create a profile
+    * Users can specify what skills they offer and what skills they’re in need of in profile.
+    * Users can search for others offering services they need based off city and category of need (i.e. yard)
+    * Display other users that are a full or half match with skills offered and skills needed
+    * In-app chat that allows users to message other users when there’s a trade match
+    * Users can mark a checkbox stating they're open to discuss other trades not listed in the case of a partial match
 
 Future Features:
-Ratings
+    * Ratings
+    * Search by zip code and distance
+    * Submit suggested new categories
+
