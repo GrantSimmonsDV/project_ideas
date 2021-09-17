@@ -1,0 +1,38 @@
+Capstone Ideas
+
+//Ideas
+1. Application that can find a recipes that meet a specific diet restriction and time to make it.
+2. Find healthcare provider ratings
+3. Auto details and service reminders
+4. Service trade social application 
+
+
+//Interests 
+biking
+hiking 
+discovering
+    places
+    shops
+    eating
+    trails
+sight seeing
+experiencing
+house
+living environment
+environment
+
+
+//Daily tasks
+cooking 
+
+
+//Problems
+deciding on a movie
+gathering reviews of health care providers
+finding recipes that meet diet rescrictions
+
+
+//APIs
+Toolio - text info to your device from site
+Spoonacular - food and recipe api
+
