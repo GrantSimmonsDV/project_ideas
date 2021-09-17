@@ -10,9 +10,7 @@ MVP:
 * User enters form of trade/service they need
 
 * Friend request? Agree then can chat - Yes/No
-
 * Email/Chat
-
 * Users able to chat when there’s a trade match
 
 Future Features:
